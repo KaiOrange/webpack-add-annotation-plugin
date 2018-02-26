@@ -1,10 +1,14 @@
 {
   "name": "webpack-add-annotation-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个在webpack打包后的文件中添加注释的插件",
   "main": "index.js",
   "scripts": {
     "test": "webpack --config webpack.config.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KaiOrange/webpack-add-annotation-plugin.git"
   },
   "keywords": ["webpack","plugin","add","annotation","注释"],
   "author": "kaiorange",
